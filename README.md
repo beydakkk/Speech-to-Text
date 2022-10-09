@@ -1,3 +1,3 @@
 # Speech-to-Text
 
-I made this project on Google Colab.
+You can convert any video on YouTube to text with this easy to implement project.
